@@ -1,4 +1,4 @@
-# Jupyter
+# Jupyter Notebook
 All about Jupyter Notebook, JupyterHub and JupyterLab. 
 
 -- What is Jupyter? (from Wiki)
